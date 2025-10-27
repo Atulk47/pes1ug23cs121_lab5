@@ -1,0 +1,20 @@
+2025-10-27 07:00:00,794 - INFO - --- Inventory System Start ---
+2025-10-27 07:00:00,794 - WARNING - inventory.json not found. Starting with empty inventory.
+2025-10-27 07:00:00,794 - INFO - Added 10 of apple. New total: 10
+2025-10-27 07:00:00,794 - INFO - Added -2 of banana. New total: -2
+2025-10-27 07:00:00,794 - ERROR - Invalid item name: 123. Must be a non-empty string.
+2025-10-27 07:00:00,794 - INFO - Removed 3 of apple. New total: 7
+2025-10-27 07:00:00,794 - WARNING - Attempted to remove orange, but it was not in stock.
+2025-10-27 07:00:00,794 - WARNING - Low stock items (<= 5): ['banana']
+2025-10-27 07:00:00,795 - INFO - Stock data saved to inventory.json.
+2025-10-27 07:00:00,795 - INFO - --- Inventory System End ---
+2025-10-27 07:01:14,115 - INFO - --- Inventory System Start ---
+2025-10-27 07:01:14,115 - INFO - Stock data loaded from inventory.json.
+2025-10-27 07:01:14,115 - INFO - Added 10 of apple. New total: 17
+2025-10-27 07:01:14,115 - INFO - Added -2 of banana. New total: -4
+2025-10-27 07:01:14,115 - ERROR - Invalid item name: 123. Must be a non-empty string.
+2025-10-27 07:01:14,116 - INFO - Removed 3 of apple. New total: 14
+2025-10-27 07:01:14,116 - WARNING - Attempted to remove orange, but it was not in stock.
+2025-10-27 07:01:14,116 - WARNING - Low stock items (<= 5): ['banana']
+2025-10-27 07:01:14,116 - INFO - Stock data saved to inventory.json.
+2025-10-27 07:01:14,116 - INFO - --- Inventory System End ---

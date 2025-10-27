@@ -1,0 +1,6 @@
+************* Module lab6
+lab6.py:3:14: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 9.87/10 (previous run: 9.74/10, +0.13)
+
